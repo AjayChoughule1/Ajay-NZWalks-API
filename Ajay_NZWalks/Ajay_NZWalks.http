@@ -1,0 +1,6 @@
+@Ajay_NZWalks_HostAddress = http://localhost:5048
+
+GET {{Ajay_NZWalks_HostAddress}}/student/
+Accept: application/json
+
+###
